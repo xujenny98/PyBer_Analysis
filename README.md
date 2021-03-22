@@ -11,11 +11,11 @@ The multiple-line chart "Total Fare by City Type" further supports the PyBer Sum
 ![Fig8](analysis/Fig8.png)
 
 # Summary
-
-<br/>There is a larger use of PyBer ridesharing in urban cities.
-<br/>There are more drivers in urban cities than rural cities.
-<br/>As a result, the majority of PyBer's revenue occurs in urban cities.
-<br/>On the other hand, the costs for using PyBer is greater among riders in rural cities than urban cities. This could discourage potential riders from using PyBer given the high average fare per ride.
-<br/>Drivers in rural cities are earning more than drivers in urban cities. This could discourage discourage potential drivers from working with PyBer given the low average fare per driver.
-<br/>There is an another opportunity for further analysis to determine other factors that are contributing to the high ride costs in rural cities and low driver fares in urban cities. Perhaps, travel distance is a key factor.
-<br/>Overall, PyBer ridersharing services significantly differs in rural, suruban, and urban cities given the number of rides, drivers, and fares. Data supports that there is higher usage of PyBer ridesharing services in urban cities.
+Business recommendations to the CEO for addressing any disparities among the city type:
+<br/>-There is a larger use of PyBer ridesharing in urban cities.
+<br/>-There are more drivers in urban cities than rural cities.
+<br/>-As a result, the majority of PyBer's revenue occurs in urban cities.
+<br/>-On the other hand, the costs for using PyBer is greater among riders in rural cities than urban cities. This could discourage potential riders from using PyBer given the high average fare per ride.
+<br/>-Drivers in rural cities are earning more than drivers in urban cities. This could discourage discourage potential drivers from working with PyBer given the low average fare per driver.
+<br/>-There is an another opportunity for further analysis to determine other factors that are contributing to the high ride costs in rural cities and low driver fares in urban cities. Perhaps, travel distance is a key factor.
+<br/>-Overall, PyBer ridersharing services significantly differs in rural, suruban, and urban cities given the number of rides, drivers, and fares. Data supports that there is higher usage of PyBer ridesharing services in urban cities.
