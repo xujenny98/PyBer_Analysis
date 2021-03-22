@@ -8,7 +8,7 @@ In terms of costs, it appears that riders in rural cities pay on average almost 
 
 
 The multiple-line chart "Total Fare by City Type" further supports the PyBer Summary DataFrame by providing trends of total fares in rural, suburban, and urban cities between January 2019 and April 2019. The yellow trend shows how fares in urban cities totaled from around $1,600 to $2,300 from beginning to end during this five-month period. In contrast, the blue trend shows how fares in rural cities totaled around $300 from beginning to end during the same time period. The orange trend shows how the total fares in suruban cities fall in between urban and rural cities: around $700 to $1,300 from beginning to end during this time. The chart further demonstrates similar peak times in all these types of cities. One noteworthy peak in total fares among urban, suburban, and rural cities occurred sometime at the end of February 2019.
-![Fig8](http://localhost:8889/view/Desktop/PyBer_Analysis/analysis/Fig8.png)
+![Fig8](analysis/Fig8.png)
 
 # Summary
 
