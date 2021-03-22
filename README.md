@@ -11,7 +11,7 @@ The multiple-line chart "Total Fare by City Type" further supports the PyBer Sum
 ![Fig8](analysis/Fig8.png)
 
 # Summary
-Business recommendations to the CEO for addressing any disparities among the city type:
+**Business recommendations to the CEO for addressing any disparities among the city type:**
 <br/>-There is a larger use of PyBer ridesharing in urban cities.
 <br/>-There are more drivers in urban cities than rural cities.
 <br/>-As a result, the majority of PyBer's revenue occurs in urban cities.
